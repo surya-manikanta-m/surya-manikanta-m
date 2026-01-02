@@ -4,7 +4,7 @@
 # 👋 Hi, I'm Surya Manikanta
 
 🎓 **Computer Science Student**  
-💻 **Frontend Web Developer (Beginner)**  
+💻 **Frontend Web Developer  *Beginner**  
 🚀 Passionate about building clean & responsive websites  
 📍 Andhra Pradesh, India  
 
