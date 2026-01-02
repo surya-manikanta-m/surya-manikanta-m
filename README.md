@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Surya+Manikanta;Computer+Science+Student;Frontend+Web+Developer;Learning+HTML+CSS+JavaScript" />
+</p>
 # 👋 Hi, I'm Surya Manikanta
 
 🎓 **Computer Science Student**  
