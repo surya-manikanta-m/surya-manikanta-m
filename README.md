@@ -37,6 +37,6 @@
 
 ## 📫 Connect With Me
 - 📧 Email: **maninaidumuddana@gmail.com**
-- 💼 LinkedIn: *(Add link later)*
+- 💼 LinkedIn: *www.linkedin.com/in/mani-naidu-muddana-6879b42b9*
 
 ⭐ *Thank you for visiting my profile!*
